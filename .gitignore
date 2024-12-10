@@ -10,3 +10,5 @@ packages/
 
 # Temporary files/folders
 *temp*
+/.vs
+/.gitignore
